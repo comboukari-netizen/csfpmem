@@ -1,2 +1,0 @@
-# csfpmem
-site CSFP-MEM
